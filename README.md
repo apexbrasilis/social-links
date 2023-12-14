@@ -1,2 +1,2 @@
-# social-links
- Social Links Page
+# projeto-social
+Projeto de Redes Sociais
